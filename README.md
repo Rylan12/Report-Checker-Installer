@@ -19,9 +19,9 @@ Fixes an issue that occurred when the program could not detect the modality or a
 > * Mixed up modality and anatomy errors
 > * Fixed adding unknown word to dictionary
 
-## View All Releases
-Click to go to the [Release Page](https://rylan12.github.io/Report-Checker-Installer/releases.html)
+[View All Releases][Releases]
 
 [Website]: https://rylan12.github.io/Report-Checker-Installer "Report Checker Installer"
 [Installer]: https://raw.githubusercontent.com/Rylan12/Report-Checker-Installer/master/setup.exe "setup.exe"
 [Documentation Page]: https://rylan12.github.io/Report-Checker-Installer/documentation.html "Documentation Page"
+[Releases]: https://rylan12.github.io/Report-Checker-Installer/releases.html
