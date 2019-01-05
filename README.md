@@ -11,15 +11,13 @@ Click to go to the [Documentation Page] for the complete instruction manual.
 ### Quick Setup
 `TODO`
 
-## Latest Release
+## Current Release
 ### v0.1.0.1
 ###### Released on: 1/4/2018
-This is a base release. It sets up the update features and initializes all files.
-> #### Features
-> * Report checking
-> * Substitution capability
-> * Add unknown words to dictionary
-> * Keyword editing
+Fixes an issue that occurred when the program could not detect the modality or anatomy.
+> #### Fixes
+> * Mixed up modality and anatomy errors
+> * Fixed adding unknown word to dictionary
 
 ## View All Releases
 Click to go to the [Release Page](https://rylan12.github.io/Report-Checker-Installer/releases.html)
