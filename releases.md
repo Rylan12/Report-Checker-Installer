@@ -21,6 +21,7 @@ detect the modality or anatomy.
 > * Substitution capability
 > * Add unknown words to dictionary
 > * Keyword editing
+>
 > #### Fixes
 > * Mixed up modality and anatomy errors
 > * Fixed adding unknown word to dictionary
