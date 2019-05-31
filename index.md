@@ -10,11 +10,10 @@ Click to go to the [Documentation Page] for the complete instruction manual.
 `TODO`
 
 ## Current Release
-### v0.1.1.0
-###### Released on: 1/8/2018
-This release contains an attempted fix for the
-copying issue. It adds a delay option for copying
-time.
+### v0.2.0.0
+###### Released on: 5/31/2019
+This release switched to use UI Automation instead
+of copying and pasting as was done previously.
 > #### Fixes
 > * Copying Issue
 
