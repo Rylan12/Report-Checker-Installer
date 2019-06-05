@@ -10,12 +10,19 @@ Click to go to the [Documentation Page] for the complete instruction manual.
 `TODO`
 
 ## Current Release
-### v0.2.0.0
-###### Released on: 5/31/2019
-This release switched to use UI Automation instead
-of copying and pasting as was done previously.
+### v0.2.1.0
+###### Released on: 6/5/2019
+This release adds format checking capabilities for
+reports. This includes checking for capital letters
+after periods as well as new lines before new
+fields.
+> #### Features
+> * Style checking for reports
+> * Improved copy/paste functionality
+>
 > #### Fixes
-> * Copying Issue
+> * Can re-discover target window if it is closed
+> * Removes extra newline character after paste
 
 [View All Releases][Releases]
 

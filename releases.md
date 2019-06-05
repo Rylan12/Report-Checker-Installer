@@ -1,6 +1,21 @@
 # Releases
 
 ## Current Release
+### v0.2.1.0
+###### Released on: 6/5/2019
+This release adds format checking capabilities for
+reports. This includes checking for capital letters
+after periods as well as new lines before new
+fields.
+> #### Features
+> * Style checking for reports
+> * Improved copy/paste functionality
+>
+> #### Fixes
+> * Can re-discover target window if it is closed
+> * Removes extra newline character after paste
+
+## Past Releases
 ### v0.2.0.0
 ###### Released on: 5/31/2019
 This release switched to use UI Automation instead
@@ -8,7 +23,6 @@ of copying and pasting as was done previously.
 > #### Fixes
 > * Copying Issue
 
-## Past Releases
 ### v0.1.1.0
 ###### Released on: 1/8/2019
 This release contains an attempted fix for the
