@@ -10,19 +10,19 @@ Click to go to the [Documentation Page] for the complete instruction manual.
 `TODO`
 
 ## Current Release
-### v0.2.1.0
-###### Released on: 6/5/2019
+### v0.2.2.0
+###### Released on: 6/6/2019
 This release adds format checking capabilities for
 reports. This includes checking for capital letters
 after periods as well as new lines before new
 fields.
 > #### Features
-> * Style checking for reports
-> * Improved copy/paste functionality
+> * Runs formatting checks on 1 line reports
 >
 > #### Fixes
-> * Can re-discover target window if it is closed
-> * Removes extra newline character after paste
+> * Detects field names that aren't capitalized
+> * Fixes early start keywords detection issues
+> * Fixes errors when checking 1 line reports
 
 [View All Releases][Releases]
 
