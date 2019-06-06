@@ -1,6 +1,14 @@
 # Releases
 
 ## Current Release
+### v0.3.0.0
+###### Released on: 6/6/2019
+This release adds auto detection capability for
+dictionary and substitution rule menus.
+> #### Features
+> * Autodetect report type and selected word
+
+## Past Releases
 ### v0.2.2.0
 ###### Released on: 6/6/2019
 This release adds format checking capabilities for
@@ -15,7 +23,6 @@ fields.
 > * Fixes early start keywords detection issues
 > * Fixes errors when checking 1 line reports
 
-## Past Releases
 ### v0.2.1.0
 ###### Released on: 6/5/2019
 This release adds format checking capabilities for

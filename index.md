@@ -10,19 +10,12 @@ Click to go to the [Documentation Page] for the complete instruction manual.
 `TODO`
 
 ## Current Release
-### v0.2.2.0
+### v0.3.0.0
 ###### Released on: 6/6/2019
-This release adds format checking capabilities for
-reports. This includes checking for capital letters
-after periods as well as new lines before new
-fields.
+This release adds auto detection capability for
+dictionary and substitution rule menus.
 > #### Features
-> * Runs formatting checks on 1 line reports
->
-> #### Fixes
-> * Detects field names that aren't capitalized
-> * Fixes early start keywords detection issues
-> * Fixes errors when checking 1 line reports
+> * Autodetect report type and selected word
 
 [View All Releases][Releases]
 
