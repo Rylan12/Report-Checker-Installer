@@ -1,6 +1,27 @@
 # Releases
 
 ## Current Release
+### v1.0.0.0
+###### Released on: 6/13/2019
+This release is the first working version. It
+contains bug fixes and added features for
+usability.
+> #### Features
+> * Ability to keep window in front of screen
+> * Buttons to directly create substitution rules
+> * Hotkeys
+> * Ability to create new lists
+> * Sorting for lists
+> * Deletion of multiple lists elements
+> * Feedback button
+>
+> #### Fixes
+> * Dictionary treats contractions correctly
+> * Improved reload time after cancelled change
+> * Fixes issue when no substitution lists found
+> * Fixed field name detection issue
+
+## Past Releases
 ### v0.3.0.0
 ###### Released on: 6/6/2019
 This release adds auto detection capability for
@@ -8,7 +29,6 @@ dictionary and substitution rule menus.
 > #### Features
 > * Autodetect report type and selected word
 
-## Past Releases
 ### v0.2.2.0
 ###### Released on: 6/6/2019
 This release adds format checking capabilities for
