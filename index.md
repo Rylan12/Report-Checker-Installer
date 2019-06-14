@@ -10,25 +10,12 @@ Click to go to the [Documentation Page] for the complete instruction manual.
 `TODO`
 
 ## Current Release
-### v1.0.0.0
-###### Released on: 6/13/2019
-This release is the first working version. It
-contains bug fixes and added features for
-usability.
-> #### Features
-> * Ability to keep window in front of screen
-> * Buttons to directly create substitution rules
-> * Hotkeys
-> * Ability to create new lists
-> * Sorting for lists
-> * Deletion of multiple lists elements
-> * Feedback button
->
+### v1.0.0.1
+###### Released on: 6/14/2019
+This release fixes minor bugs found during the
+startup sequence.
 > #### Fixes
-> * Dictionary treats contractions correctly
-> * Improved reload time after cancelled change
-> * Fixes issue when no substitution lists found
-> * Fixed field name detection issue
+> * Fixes issues with startup sequence
 
 [View All Releases][Releases]
 

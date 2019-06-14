@@ -1,6 +1,14 @@
 # Releases
 
 ## Current Release
+### v1.0.0.1
+###### Released on: 6/14/2019
+This release fixes minor bugs found during the
+startup sequence.
+> #### Fixes
+> * Fixes issues with startup sequence
+
+## Past Releases
 ### v1.0.0.0
 ###### Released on: 6/13/2019
 This release is the first working version. It
@@ -21,7 +29,6 @@ usability.
 > * Fixes issue when no substitution lists found
 > * Fixed field name detection issue
 
-## Past Releases
 ### v0.3.0.0
 ###### Released on: 6/6/2019
 This release adds auto detection capability for
