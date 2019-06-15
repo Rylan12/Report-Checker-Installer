@@ -1,6 +1,15 @@
 # Releases
 
 ## Current Release
+### v1.0.0.3
+###### Released on: 6/15/2019
+This release fixes minor bugs when two
+modalities are listed in the report in
+in different spots.
+> #### Fixes
+> * Deals with two different modalities
+
+## Past Releases
 ### v1.0.0.2
 ###### Released on: 6/15/2019
 This release fixes minor bugs found during the
@@ -8,7 +17,6 @@ startup sequence.
 > #### Fixes
 > * Fixes issues with startup sequence
 
-## Past Releases
 ### v1.0.0.1
 ###### Released on: 6/14/2019
 This release fixes minor bugs found during the

@@ -10,12 +10,13 @@ Click to go to the [Documentation Page] for the complete instruction manual.
 `TODO`
 
 ## Current Release
-### v1.0.0.2
+### v1.0.0.3
 ###### Released on: 6/15/2019
-This release fixes minor bugs found during the
-startup sequence.
+This release fixes minor bugs when two
+modalities are listed in the report in
+in different spots.
 > #### Fixes
-> * Fixes issues with startup sequence
+> * Deals with two different modalities
 
 [View All Releases][Releases]
 
