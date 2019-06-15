@@ -10,8 +10,8 @@ Click to go to the [Documentation Page] for the complete instruction manual.
 `TODO`
 
 ## Current Release
-### v1.0.0.1
-###### Released on: 6/14/2019
+### v1.0.0.2
+###### Released on: 6/15/2019
 This release fixes minor bugs found during the
 startup sequence.
 > #### Fixes
