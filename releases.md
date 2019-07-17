@@ -1,6 +1,19 @@
 # Releases
 
 ## Current Release
+### v1.1.0.0
+###### Released on: 7/17/2019
+This release fixes minor issues to improve
+usability.
+> ### Features
+> * Adds hotkey hints
+> * Option to capitalize impression field
+>
+> #### Fixes
+> * Fixes issues when adding new keywords
+> * Remove double periods
+
+## Past Releases
 ### v1.0.0.3
 ###### Released on: 6/15/2019
 This release fixes minor bugs when two
@@ -9,7 +22,6 @@ in different spots.
 > #### Fixes
 > * Deals with two different modalities
 
-## Past Releases
 ### v1.0.0.2
 ###### Released on: 6/15/2019
 This release fixes minor bugs found during the

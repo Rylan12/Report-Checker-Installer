@@ -10,13 +10,17 @@ Click to go to the [Documentation Page] for the complete instruction manual.
 `TODO`
 
 ## Current Release
-### v1.0.0.3
-###### Released on: 6/15/2019
-This release fixes minor bugs when two
-modalities are listed in the report in
-in different spots.
+### v1.1.0.0
+###### Released on: 7/17/2019
+This release fixes minor issues to improve
+usability.
+> ### Features
+> * Adds hotkey hints
+> * Option to capitalize impression field
+>
 > #### Fixes
-> * Deals with two different modalities
+> * Fixes issues when adding new keywords
+> * Remove double periods
 
 [View All Releases][Releases]
 
