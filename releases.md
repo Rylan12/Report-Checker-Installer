@@ -1,6 +1,15 @@
 # Releases
 
 ## Current Release
+### v1.2.0.0
+###### Released on: 7/23/2019
+This release changes the startup sequence
+for added efficiency.
+> ### Features
+> * New startup sequence
+> * Progress bar for initial setup
+
+## Past Releases
 ### v1.1.0.0
 ###### Released on: 7/17/2019
 This release fixes minor issues to improve
@@ -13,7 +22,6 @@ usability.
 > * Fixes issues when adding new keywords
 > * Remove double periods
 
-## Past Releases
 ### v1.0.0.3
 ###### Released on: 6/15/2019
 This release fixes minor bugs when two

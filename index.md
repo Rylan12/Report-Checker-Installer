@@ -10,17 +10,13 @@ Click to go to the [Documentation Page] for the complete instruction manual.
 `TODO`
 
 ## Current Release
-### v1.1.0.0
-###### Released on: 7/17/2019
-This release fixes minor issues to improve
-usability.
+### v1.2.0.0
+###### Released on: 7/23/2019
+This release changes the startup sequence
+for added efficiency.
 > ### Features
-> * Adds hotkey hints
-> * Option to capitalize impression field
->
-> #### Fixes
-> * Fixes issues when adding new keywords
-> * Remove double periods
+> * New startup sequence
+> * Progress bar for initial setup
 
 [View All Releases][Releases]
 
